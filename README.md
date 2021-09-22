@@ -1,5 +1,5 @@
-#### CS 110
-# Chapter 3 - Lab - Simple Data
+#### CS 105
+# Chapter 5 - Lab - Simple Data
 
 ### [Assignment Description](https://docs.google.com/document/d/1FEJtyCAl-Vev8L4LBngNbdDVhudky6W-SqmpRh4ngTI/edit?usp=sharing)
 
