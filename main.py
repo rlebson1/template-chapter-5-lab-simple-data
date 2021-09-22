@@ -1,10 +1,11 @@
 
 #Part A
 weeks = 16
-classes = 5
-tuition = 6000
-cost_per_week = ((tuition / classes) / weeks)
-print("Cost per week:", cost_per_week)
+
+#ask for user input for total_tuition and classes_per_week (don't forget type conversions)
 
 
-#Part B
+#calculate the cost_per_class using the provided 'weeks' variable and the data from the user\
+
+
+#print your result
