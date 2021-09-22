@@ -1,5 +1,5 @@
 
-#Part A
+#Part B
 weeks = 16
 
 #ask for user input for total_tuition and classes_per_week (don't forget type conversions)
