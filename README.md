@@ -1,7 +1,7 @@
 #### CS 105
 # Chapter 5 - Lab - Simple Data
 
-### [Assignment Description](https://docs.google.com/document/d/1FEJtyCAl-Vev8L4LBngNbdDVhudky6W-SqmpRh4ngTI/edit?usp=sharing)
+### [Assignment Description](https://docs.google.com/document/d/1lF5-OYR_SZblVeJ2Qo3EDPSS5XRjgvYzH-mFFSlTcHU/edit?usp=sharing)
 
 ***
 
