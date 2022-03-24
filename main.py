@@ -1,5 +1,5 @@
 
-#Part A
+tuition_cost=inp("how much does your tuition cost?")
 weeks = 16
 
 #ask for user input for total_tuition and classes_per_week (don't forget type conversions)
